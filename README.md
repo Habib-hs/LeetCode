@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Habib-hs/LeetCode/tree/master/0001-two-sum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
 | [1217-relative-sort-array](https://github.com/Habib-hs/LeetCode/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
