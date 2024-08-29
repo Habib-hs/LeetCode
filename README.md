@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/Habib-hs/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Habib-hs/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Habib-hs/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
