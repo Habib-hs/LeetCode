@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Habib-hs/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Two Pointers
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## String
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
