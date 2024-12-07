@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Habib-hs/LeetCode/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Habib-hs/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1217-relative-sort-array](https://github.com/Habib-hs/LeetCode/tree/master/1217-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -103,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Habib-hs/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Habib-hs/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Habib-hs/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Habib-hs/LeetCode/tree/master/1127-last-stone-weight) |
 ## Merge Sort
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Habib-hs/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
