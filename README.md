@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Habib-hs/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
+| [1063-best-sightseeing-pair](https://github.com/Habib-hs/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/Habib-hs/LeetCode/tree/master/1127-last-stone-weight) |
 | [1217-relative-sort-array](https://github.com/Habib-hs/LeetCode/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Habib-hs/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1063-best-sightseeing-pair](https://github.com/Habib-hs/LeetCode/tree/master/1063-best-sightseeing-pair) |
 <!---LeetCode Topics End-->
