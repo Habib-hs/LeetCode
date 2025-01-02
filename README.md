@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Habib-hs/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Divide and Conquer
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/Habib-hs/LeetCode/tree/master/1063-best-sightseeing-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Habib-hs/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
