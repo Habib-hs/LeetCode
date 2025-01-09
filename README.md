@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Habib-hs/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Habib-hs/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Habib-hs/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
 | [1046-max-consecutive-ones-iii](https://github.com/Habib-hs/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Habib-hs/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Habib-hs/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Habib-hs/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Habib-hs/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Habib-hs/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/Habib-hs/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Habib-hs/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Habib-hs/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Habib-hs/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
