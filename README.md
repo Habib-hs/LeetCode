@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Habib-hs/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Habib-hs/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Habib-hs/LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/Habib-hs/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Habib-hs/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Habib-hs/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Habib-hs/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Habib-hs/LeetCode/tree/master/0027-remove-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Habib-hs/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
