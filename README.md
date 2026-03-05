@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Habib-hs/LeetCode/tree/master/0729-my-calendar-i) |
 | [0817-design-hashmap](https://github.com/Habib-hs/LeetCode/tree/master/0817-design-hashmap) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0832-flipping-an-image](https://github.com/Habib-hs/LeetCode/tree/master/0832-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Habib-hs/LeetCode/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/Habib-hs/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Habib-hs/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Habib-hs/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Habib-hs/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Habib-hs/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0832-flipping-an-image](https://github.com/Habib-hs/LeetCode/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Habib-hs/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Habib-hs/LeetCode/tree/master/0027-remove-element) |
+| [0832-flipping-an-image](https://github.com/Habib-hs/LeetCode/tree/master/0832-flipping-an-image) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Habib-hs/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Habib-hs/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
@@ -279,4 +282,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Habib-hs/LeetCode/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Habib-hs/LeetCode/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Habib-hs/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
