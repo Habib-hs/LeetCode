@@ -8,12 +8,12 @@ class Solution {
             frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Integer, Integer>> maxHeap =
+        PriorityQueue<Map.Entry<Integer,Integer>> maxHeap =
                 new PriorityQueue<>((a, b) -> b.getValue() - a.getValue()); 
 
         maxHeap.addAll(frequencyMap.entrySet()); 
 
-        int[] result = new int[k];
+        int result[] = new int[k];
         for (int i = 0; i < k; i++) {
             result[i] = maxHeap.poll().getKey(); 
         }
