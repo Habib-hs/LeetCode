@@ -31,6 +31,6 @@ class Solution {
          }
         result.add(level);
         }
-         return result;
+         return result; 
     }
 }
